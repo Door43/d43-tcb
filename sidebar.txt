@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tcb:home|Door43 (tcb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tcb|d43-tcb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tcb/archive/master.zip|d43-tcb.zip]]
+
+**Recent Changes**
+{{changes>ns = tcb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tcb|Ethnologue data]]
+
